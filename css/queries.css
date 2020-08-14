@@ -1,0 +1,323 @@
+/* big tablets to 1200px(width smaller than the 1140px row*/
+@media only screen and (max-width:1200px){
+    .second-section button {
+        font-size: 16px;
+        left: 33em;
+        font-weight: bolder;
+    }   
+    .second-section h1 {
+        position: relative;
+        left: -1em;
+        font-weight: bolder;
+    }
+     .second-sec-text {
+        right: 71px;
+        font-size: 28px;
+        font-weight: bolder;
+    }
+    .third-section {
+        margin: 25px 30px 0px 100px;
+    }
+    .text-1 {
+        right: -17px;
+       font-size: 22px;
+       font-weight: bold;
+    }
+    .text-2 {
+        left: 23px;
+        font-size: 21px;
+        font-weight: bold;
+    }
+    .fourth-section h2 {
+        font-size: 40px;
+    }
+    .sec-row-1 {
+        flex-direction: column;
+    }
+    .sec-row-2 {
+        flex-direction: column;
+    }
+    .fifth-section h2 {
+        font-size: 40px;
+    }
+    .fifth-sec-row {
+        flex-direction: column;
+    }
+    .fifth-cont {
+        width: 100%;
+        margin: 25px auto;
+    }
+    .fifth-sec-row-2 button {
+        width: 770px;
+    }
+    .sixth-sec-row-1 button {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .sixth-sec-row-2 h1 {
+        font-size: 28px;
+    }
+    .footer-sec {
+        text-align: center;
+        flex-direction: column;
+    }
+    .footer-first-row button {
+        margin-top: 22px;
+        font-size: 27px;
+        padding: 35px;
+    }
+    .text-row {
+        flex-direction: column;
+    }
+    .blog-second-sec {
+        flex-direction: column;
+    }
+    .blog-content img {
+        width: 640px;
+    }
+    .about01{
+        margin: 0 auto;
+    }
+    .about-second-sec {
+        flex-direction: column;
+    }
+    .about-content h2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: 80px;
+    }
+    .about-content p{
+        padding: 80px;
+        font-size: 11px;
+    }
+    .account-sec-1 {
+        flex-direction: column;
+    }
+    .account-label {
+        position: relative;
+        top: 50px;
+        left: 40px;
+        font-size: 24px;
+    }
+    .account-input {
+        font-size: 25px;
+    }
+    .account-btn button {
+        height: 60px;
+        width: 220px;
+        font-size: 20px;
+    }
+    .account-sec h3 {
+        font-size: 40px;
+    }
+    .sign-up{
+        flex-direction: column-reverse;
+    }
+    .sign-up-1{
+        text-align: center;
+    }
+    .domain-second-sec-1{
+        font-size: 20px;
+    }
+    .domain-setting-sec {
+        font-size: 27px;
+    }
+    .domain-setting-sec-1 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .placeholder {
+        font-size: 28px;
+    }
+    .contact-first-sec {
+        font-size: 30px;
+    }
+    .placeholder-1 {
+        font-size: 27px;
+    }
+    .contact-btn {
+        font-size: 30px;
+    }
+    .support-text {
+        font-size: 25px;
+    }
+    .support-text-1 {
+        font-size: 25px;
+    }
+    .support-btn {
+        font-size: 34px;
+    }
+    .fifth-sec-row-2 {
+        font-size: 31px;
+    }
+    .login-input{
+        font-size: 30px;
+    }
+    login-btn{
+        font-size: 30px;
+    }
+   
+}
+@media only screen and (max-width:1024){
+    .sign-up{
+        flex-direction: column-reverse;
+    }
+}
+/*small tablets to big tablets: from 768px to 1023*/
+@media only screen and (max-width:1023px){
+    .second-section button {
+        font-size: 16px;
+        left: 33em;
+    } 
+    .second-section h1 {
+        position: relative;
+        left: -1em;
+    } 
+    .second-sec-text {
+        right: 71px;
+        font-size: 28px;
+    }
+    .third-section {
+        margin: 25px 30px 0px 100px;
+    }
+    .text-1 {
+        right: -17px;
+       font-size: 22px;
+    }
+    .text-2 {
+        left: 23px;
+        font-size: 21px;
+    }
+    .fourth-section h2 {
+        font-size: 40px;
+    }
+    .sec-row-1 {
+        flex-direction: column;
+    }
+    .sec-row-2 {
+        flex-direction: column;
+    }
+    .fifth-section h2 {
+        font-size: 40px;
+    }
+    .fifth-sec-row {
+        flex-direction: column;
+    }
+    .fifth-cont {
+        width: 100%;
+        margin: 25px auto;
+    }
+    .fifth-sec-row-2 button {
+        width: 740px;
+    }
+    .sixth-sec-row-1 button {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .sixth-sec-row-2 h1 {
+        font-size: 28px;
+    }
+    .footer-sec {
+        text-align: center;
+        flex-direction: column;
+    }
+    .footer-first-row button {
+        margin-top: 22px;
+        font-size: 27px;
+        padding: 35px;
+    }
+    .text-row {
+        flex-direction: column;
+    }
+    .blog-second-sec {
+        flex-direction: column;
+    }
+    .blog-content img {
+        width: 640px;
+    }
+    .about01{
+        margin: 0 auto;
+    }
+    .about-second-sec {
+        flex-direction: column;
+    }
+    .about-content h2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: 80px;
+    }
+    .about-content p{
+        padding: 80px;
+        font-size: 11px;
+    }
+    .account-sec-1 {
+        flex-direction: column;
+    }
+    .account-label {
+        position: relative;
+        top: 50px;
+    }
+    .account-input {
+        font-size: 25px;
+    }
+    .account-btn button {
+        height: 60px;
+        width: 220px;
+        font-size: 20px;
+    }
+    .account-sec h3 {
+        font-size: 40px;
+    }
+    .sign-up{
+        flex-direction: column-reverse;
+    }
+    .sign-up-1{
+        text-align: center;
+    }
+    .domain-second-sec-1{
+        font-size: 20px;
+    }
+    .domain-setting-sec {
+        font-size: 25px;
+    }
+    .domain-setting-sec-1 {
+        font-size: 27px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .placeholder {
+        font-size: 28px;
+    }
+    .contact-first-sec {
+        font-size: 30px;
+    }
+    .placeholder-1 {
+        font-size: 27px;
+    }
+    .contact-btn {
+        font-size: 30px;
+    }
+    .support-text {
+        font-size: 25px;
+    }
+    .support-text-1 {
+        font-size: 25px;
+    }
+    .support-btn {
+        font-size: 34px;
+    }
+    .fifth-sec-row-2 {
+        font-size: 31px;
+    }
+}
+/* samll phone to small tablets: from 481px to 767px*/
+@media only screen and (max-width:767px){
+
+}
+/*small phone: from 0 to 480px*/
+@media only screen and (max-width:480px){
+    
+}
